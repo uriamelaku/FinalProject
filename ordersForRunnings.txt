@@ -1,8 +1,0 @@
-
-בדיקה ידנית
-g++ -std=c++17 main.cpp -o manual
-.\manual
-
-ניסויים רנדומליים
-g++ -std=c++17 RandomExperiments.cpp -o random
-.\random
